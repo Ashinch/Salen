@@ -1,0 +1,26 @@
+{
+  "name": "salen",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@geist-ui/react": "^2.1.5",
+    "@geist-ui/react-icons": "^1.0.1",
+    "axios": "^0.21.1",
+    "cal-parser": "^1.0.1",
+    "ical.js": "^1.4.0",
+    "next": "10.1.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "rrule": "^2.6.8"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.2.5",
+    "postcss": "^8.2.10",
+    "tailwindcss": "^2.1.1"
+  }
+}
